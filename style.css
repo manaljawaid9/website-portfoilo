@@ -35,3 +35,11 @@ color: var(--primary);
 .head{
     padding: 30px;
 }
+.hed{
+    text-align: center;
+    padding: 20px;
+}
+.card{
+    height: 50px;
+    gap: 10%;
+}
