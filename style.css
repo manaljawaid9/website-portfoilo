@@ -21,7 +21,7 @@ color: var(--primary);
 .hero{
     color: #5e3bee;
 }
-/* experties */
+/* experties
 .heading{
     padding: 30px;
 }
@@ -42,4 +42,43 @@ color: var(--primary);
 .card{
     height: 50px;
     gap: 10%;
+}
+/* form */
+/* .new {
+    border: 1.5px solid #5E3BEE;
+
+}
+
+.form-control.new:focus,
+.form-select.new:focus,
+textarea.form-control.new:focus {
+    background-color: transparent;
+    border: 1.5px solid #5f3beea6;
+    outline: 0;
+    /* /* box-shadow: 1px 1px 10px #5f3beea6 
+
+
+/* footer */
+.footer-border {
+    border-top: 1px solid black;
+}
+
+.border-width {
+    width: 93%;
+}
+.color{
+    background-color: #5E3BEE;
+    color :white
+;
+}
+
+/* media quaires */
+@media screen and (min-width:992px) {
+    .project-width {
+        width: 30%;
+    }
+
+    .custom {
+        width: 31%;
+    }
 }
